@@ -4,7 +4,7 @@ Senshare is a dynamic individual with a deep passion for both technology and bus
 
 # Background:
 
-With a strong educational foundation in Digital Creative and a keen interest in entrepreneurship, John thrives in environments where he can leverage technology to solve complex problems and create value. His academic journey has equipped him with robust technical skills in programming languages, software development, and system architecture.
+With a strong educational foundation in Digital Creative and a keen interest in entrepreneurship, Senshare thrives in environments where he can leverage technology to solve complex problems and create value. His academic journey has equipped him with robust technical skills in programming languages, software development, and system architecture.
 
 # Skills and Expertise:
 Senshare excels in:
